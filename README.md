@@ -1,6 +1,6 @@
 # ampersand-store
 
-Use the [flux application architecture](http://facebook.github.io/flux/) in your [Backbone](http://backbonejs.org/#) or [Amperand](http://ampersandjs.com/) apps. This store will encapsulate your models and collections and register actions on the [dispatcher](http://facebook.github.io/flux/docs/dispatcher.html#content).
+Use the [flux application architecture](http://facebook.github.io/flux/) in your [Backbone](http://backbonejs.org/#) or [Ampersand](http://ampersandjs.com/) apps. This store will encapsulate your models and collections and register actions on the [dispatcher](http://facebook.github.io/flux/docs/dispatcher.html#content).
 
 ## Installing
 ```
